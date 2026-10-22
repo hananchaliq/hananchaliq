@@ -117,11 +117,29 @@ Explore my other experiments, web applications, and development projects as they
 
 ## `06` / CONTRIBUTION ACTIVITY
 
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hananchaliq&bg_color=050706&color=D4DCCB&line=B8E66A&point=FFFFFF&area=true&area_color=14251C&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <h3>CONTRIBUTION SNAKE</h3>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animated GitHub contribution snake"
+      src="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 
 </div>
+
 
 ## `07` / CURRENT DIRECTION
 
