@@ -92,14 +92,6 @@ I also experiment with **AI coding agents** to help with multi-step implementati
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/B8E66A/hananchaliq" width="100%" alt="GitHub contribution activity graph"/>
-
-</div>
-
-### contribution snake
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake.svg"/>
