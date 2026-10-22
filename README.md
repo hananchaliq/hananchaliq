@@ -1,165 +1,126 @@
- <div align="center">
+ 
+<!-- ==================== HEADER ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050706,45:14251C,100:B8E66A&text=hananchaliq&fontSize=48&fontColor=E9F5D0&fontAlignY=38&desc=student%20developer%20%7C%20AI-assisted%20builder&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Hanan GitHub banner"/>
+<div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050706,50:14251C,100:B8E66A&text=Hanan%20Chaliq&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Developer%20in%20Progress&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Hanan Chaliq banner"/>
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=900&color=B8E66A&center=true&vCenter=true&width=650&lines=I+build+with+AI%2C+not+just+copy+from+AI.;Planning+projects%2C+managing+context%2C+solving+bugs.;From+random+ideas+to+working+software.;Still+learning.+Still+building.+Still+debugging." alt="Animated personal introduction"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=B8E66A&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+for+the+web.;Turning+ideas+into+working+software.;Learning%2C+building%2C+improving.;Code+with+purpose." alt="Typing SVG"/>
 </a>
 
-<br/>
-
-[GitHub](https://github.com/hananchaliq) · [Repositories](https://github.com/hananchaliq?tab=repositories)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hananchaliq&style=flat&color=14251C&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 </div>
 
 ---
 
-## hey, i'm hanan.
+## About Me
 
-I'm a student developer from Indonesia who likes turning ideas into digital products, experimenting with technologies, and using AI to make the development process more manageable.
+```js
+const hanan = {
+  role: "Student Developer",
+  focus: ["Web Development", "Software Engineering"],
+  currentlyLearning: ["Backend Development", "System Design"],
+  workflow: "AI-assisted development",
+  goal: "Software Developer",
+};
+```
 
-I'm not the type who wants to write every line of code manually just for the sake of it. I prefer figuring out what needs to be built, planning how it should work, using AI to speed things up, and making sure the result actually does what it's supposed to do.
+I build web applications, experiment with new technologies, and use AI tools to accelerate development while learning how the underlying systems actually work.
 
-**My main thing is AI-assisted development and project management.**
+- Developing responsive web applications and practical tools.
+- Exploring frontend, backend, databases, and application architecture.
+- Using AI coding tools for planning, implementation, debugging, and iteration.
+- Improving through experimentation and real-world projects.
 
-That means working with AI to plan projects, write detailed prompts, maintain project context, explore architecture, debug errors, review implementations, and keep development moving without losing track of the original requirements.
+## Tech Stack
 
-I'm still learning, still experimenting, and occasionally fighting errors that supposedly had already been fixed.
+**Languages**
 
-- Interested in web development, software products, and practical problem-solving.
-- Exploring AI-assisted coding, project planning, and AI agents.
-- Working with web technologies and backend frameworks.
-- Interested in business and real estate investment beyond programming.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" alt="HTML, CSS, JavaScript, TypeScript, PHP"/>
+</p>
 
-## how i work with AI
+**Frameworks & Libraries**
 
-I want AI to be more than a code generator. I use it as part of a broader development workflow.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel" alt="React, Next.js, Tailwind CSS, Laravel"/>
+</p>
 
-| What I do | How I approach it |
-|:---|:---|
-| **Plan** | Turn rough ideas into project specifications, feature lists, and development roadmaps. |
-| **Prompt** | Write structured prompts with clear requirements, constraints, and expected results. |
-| **Manage context** | Maintain project instructions, architecture decisions, existing functionality, and relevant documentation. |
-| **Build** | Use AI coding tools and agents to help implement features and explore solutions. |
-| **Debug** | Investigate errors, understand their causes, and evaluate possible fixes. |
-| **Review** | Check whether implementations match the requirements and preserve existing features. |
-| **Iterate** | Improve the product through testing, feedback, and repeated refinement. |
+**Database & Services**
 
-My approach is simple: **let AI accelerate the work, but don't blindly trust the output.**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" alt="MySQL, Firebase, Supabase"/>
+</p>
 
-## what i use
+**Tools & Platforms**
 
-### web development
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,laragon" alt="Git, GitHub, VS Code, Vercel, Laragon"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel&theme=dark&perline=9" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS PHP and Laravel"/>
+**AI Development Tools**
 
-### backend, database & services
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-050706?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-050706?style=flat-square&logo=claude&logoColor=D97757" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-050706?style=flat-square&logo=googlegemini&logoColor=8AB4F8" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-050706?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Cursor-050706?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Antigravity-050706?style=flat-square&logo=google&logoColor=white" alt="Antigravity"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,supabase&theme=dark&perline=6" alt="PHP Laravel MySQL Firebase and Supabase"/>
+## AI-Assisted Development
 
-### tools & deployment
+AI is part of my development workflow, not a replacement for understanding the code.
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=6" alt="Git GitHub Visual Studio Code and Vercel"/>
+| Workflow | Purpose |
+|---|---|
+| Planning & specifications | Define requirements, features, and architecture before coding. |
+| Project context | Maintain consistent instructions and technical constraints. |
+| AI coding agents | Handle multi-step implementation and repetitive development tasks. |
+| Debugging & iteration | Analyze errors, test fixes, and refine implementations. |
+| Verification | Review generated code, run the application, and validate the result. |
 
-I also use **Laragon** as a local development environment for PHP and Laravel projects.
-
-### AI tools & coding workflow
-
-These are the AI tools I use or explore as part of my development workflow.
-
-<a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/ChatGPT-101510?style=flat-square&logo=openai&logoColor=B8E66A" alt="ChatGPT"/></a>
-<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-101510?style=flat-square&logo=anthropic&logoColor=E8B89D" alt="Claude"/></a>
-<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-101510?style=flat-square&logo=googlegemini&logoColor=8AB4F8" alt="Gemini"/></a>
-<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-101510?style=flat-square&logo=cursor&logoColor=FFFFFF" alt="Cursor"/></a>
-<a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-101510?style=flat-square&logo=google&logoColor=FFFFFF" alt="Antigravity"/></a>
-<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-101510?style=flat-square&logo=githubcopilot&logoColor=B8E66A" alt="GitHub Copilot"/></a>
-
-I also experiment with **AI coding agents** to help with multi-step implementation, code changes, debugging, and project-level tasks.
-
-## things i've been building
-
-These projects represent different parts of what I enjoy building, from practical web applications to experiments with interactive user experiences.
-
-### 01. PropertiScope
-
-**Making property analysis easier to explore.**
-
-[Repository](https://github.com/hananchaliq/propertiscope)
-
-PropertiScope is a web project focused on Indonesian property investment analysis. The idea is to make property-related financial decisions easier to explore through interactive tools rather than leaving everything in spreadsheets and scattered calculations.
-
-I'm interested in how software can help users understand financial feasibility, mortgage scenarios, market information, and potential investment risks.
-
-**Built with:** Next.js, TypeScript, React, and Tailwind CSS.
-
-### 02. KetikKilat
-
-**A typing test that goes beyond displaying WPM.**
-
-[Repository](https://github.com/hananchaliq/ketikkilat)
-
-KetikKilat is a typing-practice website focused on typing speed, accuracy, and performance feedback. The project explores how interactive testing and visual analytics can help users understand their results, identify mistakes, and follow their progress.
-
-The goal is to make the typing experience responsive, useful, and more informative than a basic timer with a score at the end.
-
-**Built with:** Next.js, React, TypeScript, and interactive web technologies.
-
-### 03. Masjid Ar-Razzaq Geliting
-
-**A website for a local mosque community.**
-
-[Repository](https://github.com/hananchaliq/masjid-arrazzaq-geliting)
-
-A web project for Masjid Ar-Razzaq in Geliting, designed to present mosque information and useful community features through a dedicated website.
-
-This project explores building a practical website with a clear visual identity and relevant information for its intended audience.
-
-**Built with:** React and Firebase.
-
-### 04. Sistem Evaluasi Pembelajaran Madrasah
-
-**Using software to support educational evaluation.**
-
-This project focuses on a school evaluation platform with separate roles for administrators, teachers, and students. Its planned and implemented functionality includes evaluation management, student and teacher data, assessment workflows, and reporting.
-
-The project has also been an opportunity to work with application architecture, relational databases, role-based access, and maintaining consistency across multiple features.
-
-**Built with:** Laravel, React, Inertia.js, Tailwind CSS, and MySQL.
-
-More projects and experiments are available in my [GitHub repositories](https://github.com/hananchaliq?tab=repositories).
-
-## a little look at my GitHub
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hananchaliq&bg_color=050706&color=D4DCCB&line=B8E66A&point=FFFFFF&area=true&area_color=14251C&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hananchaliq&show_icons=true&hide_border=true&bg_color=050706&title_color=B8E66A&text_color=D4DCCB&icon_color=B8E66A&rank_icon=github" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananchaliq&layout=compact&hide_border=true&bg_color=050706&title_color=B8E66A&text_color=D4DCCB" height="165" alt="Most used languages"/>
 
 </div>
 
+### Contribution Graph
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
-</picture>
+<img src="https://ghchart.rshah.org/B8E66A/hananchaliq" width="100%" alt="GitHub contribution graph"/>
 
 </div>
 
-## what's next?
-
-I'm working toward becoming a better software developer by building real projects, improving my understanding of software architecture, and learning how to manage AI-assisted development more effectively.
-
-I'm also interested in the business side of technology: how useful products are built, how they solve real problems, and how software skills can eventually connect with entrepreneurship and real estate investment.
-
-For now, I'm focused on learning by building, making mistakes, fixing them, and gradually getting better at the process.
+### Contribution Snake
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8E66A,100:050706&height=100&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
-<sub>Made by Hanan · Indonesia · Still figuring things out, one project at a time.</sub>
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/hananchaliq">
+  <img src="https://img.shields.io/badge/GitHub-hananchaliq-B8E66A?style=flat-square&logo=github&logoColor=050706" alt="GitHub profile"/>
+</a>
+
+<p><sub>Built with curiosity, code, and a questionable amount of AI assistance.</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0: B8E66A,100:050706&height=90&section=footer" width="100%" alt="Footer"/>
 
 </div>
