@@ -1,91 +1,84 @@
- 
-<!-- ==================== HEADER ==================== -->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050706,45:14251C,100:B8E66A&text=hananchaliq&fontSize=48&fontColor=E9F5D0&fontAlignY=38&desc=student%20developer%20%7C%20AI-assisted%20builder&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Hanan GitHub banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050706,50:14251C,100:B8E66A&text=Hanan%20Chaliq&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Developer%20in%20Progress&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Hanan Chaliq banner"/>
+<br/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=B8E66A&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+for+the+web.;Turning+ideas+into+working+software.;Learning%2C+building%2C+improving.;Code+with+purpose." alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=900&color=B8E66A&center=true&vCenter=true&width=650&lines=I+build+with+AI%2C+not+just+copy+from+AI.;Planning+projects%2C+managing+context%2C+solving+bugs.;From+random+ideas+to+working+software.;Still+learning.+Still+building.+Still+debugging" alt="Animated personal introduction"/>
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=hananchaliq&style=flat&color=14251C&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+<br/>
+
+<a href="https://github.com/hananchaliq">GitHub</a> · <a href="https://github.com/hananchaliq?tab=repositories">Repositories</a>
 
 </div>
 
 ---
 
-## About Me
+## hey, i'm hanan.
 
-```js
-const hanan = {
-  role: "Student Developer",
-  focus: ["Web Development", "Software Engineering"],
-  currentlyLearning: ["Backend Development", "System Design"],
-  workflow: "AI-assisted development",
-  goal: "Software Developer",
-};
-```
+I'm a student developer from Indonesia who likes turning ideas into digital products, experimenting with technologies, and using AI to make the development process more manageable.
 
-I build web applications, experiment with new technologies, and use AI tools to accelerate development while learning how the underlying systems actually work.
+I'm not the type who wants to write every line of code manually just for the sake of it. I prefer figuring out what needs to be built, planning how it should work, using AI to speed things up, and making sure the result actually does what it's supposed to do.
 
-- Developing responsive web applications and practical tools.
-- Exploring frontend, backend, databases, and application architecture.
-- Using AI coding tools for planning, implementation, debugging, and iteration.
-- Improving through experimentation and real-world projects.
+**My main thing is AI-assisted development and project management.**
 
-## Tech Stack
+That means working with AI to plan projects, write detailed prompts, maintain project context, explore architecture, debug errors, review implementations, and keep development moving without losing track of the original requirements.
 
-**Languages**
+I'm still learning, still experimenting, and occasionally fighting errors that supposedly had already been fixed.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" alt="HTML, CSS, JavaScript, TypeScript, PHP"/>
-</p>
+- Interested in web development, software products, and practical problem-solving.
+- Exploring AI-assisted coding, project planning, and AI agents.
+- Working with web technologies and backend frameworks.
+- Interested in business and real estate investment beyond programming.
 
-**Frameworks & Libraries**
+## how i work with AI
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel" alt="React, Next.js, Tailwind CSS, Laravel"/>
-</p>
+I want AI to be more than a code generator. I use it as part of a broader development workflow.
 
-**Database & Services**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" alt="MySQL, Firebase, Supabase"/>
-</p>
-
-**Tools & Platforms**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,laragon" alt="Git, GitHub, VS Code, Vercel, Laragon"/>
-</p>
-
-**AI Development Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-050706?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-050706?style=flat-square&logo=claude&logoColor=D97757" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-050706?style=flat-square&logo=googlegemini&logoColor=8AB4F8" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-050706?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/Cursor-050706?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Antigravity-050706?style=flat-square&logo=google&logoColor=white" alt="Antigravity"/>
-</p>
-
-## AI-Assisted Development
-
-AI is part of my development workflow, not a replacement for understanding the code.
-
-| Workflow | Purpose |
+| What I do | How I approach it |
 |---|---|
-| Planning & specifications | Define requirements, features, and architecture before coding. |
-| Project context | Maintain consistent instructions and technical constraints. |
-| AI coding agents | Handle multi-step implementation and repetitive development tasks. |
-| Debugging & iteration | Analyze errors, test fixes, and refine implementations. |
-| Verification | Review generated code, run the application, and validate the result. |
+| **Plan** | Turn rough ideas into project specifications, feature lists, and development roadmaps. |
+| **Prompt** | Write structured prompts with clear requirements, constraints, and expected results. |
+| **Manage context** | Maintain project instructions, architecture decisions, existing functionality, and relevant documentation. |
+| **Build** | Use AI coding tools and agents to help implement features and explore solutions. |
+| **Debug** | Investigate errors, understand their causes, and evaluate possible fixes. |
+| **Review** | Check whether implementations match the requirements and preserve existing features. |
+| **Iterate** | Improve the product through testing, feedback, and repeated refinement. |
 
-## GitHub Activity
+My approach is simple: **let AI accelerate the work, but don't blindly trust the output.**
+
+## what i use
+
+### web development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel&theme=dark&perline=9" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS PHP and Laravel"/>
+
+### backend, database & services
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,supabase&theme=dark&perline=6" alt="PHP Laravel MySQL Firebase and Supabase"/>
+
+### tools & deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=6" alt="Git GitHub Visual Studio Code and Vercel"/>
+
+I also use **Laragon** as a local development environment for PHP and Laravel projects.
+
+### AI tools & coding workflow
+
+These are the AI tools I use or explore as part of my development workflow.
+
+<a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/ChatGPT-101510?style=flat-square&logo=openai&logoColor=B8E66A" alt="ChatGPT"/></a>
+<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-101510?style=flat-square&logo=anthropic&logoColor=E8B89D" alt="Claude"/></a>
+<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-101510?style=flat-square&logo=googlegemini&logoColor=8AB4F8" alt="Gemini"/></a>
+<a href="https://cursor.com/"><img src="https://img.shields.io/badge/Cursor-101510?style=flat-square&logo=cursor&logoColor=FFFFFF" alt="Cursor"/></a>
+<a href="https://antigravity.google/"><img src="https://img.shields.io/badge/Antigravity-101510?style=flat-square&logo=google&logoColor=FFFFFF" alt="Antigravity"/></a>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-101510?style=flat-square&logo=githubcopilot&logoColor=B8E66A" alt="GitHub Copilot"/></a>
+
+I also experiment with **AI coding agents** to help with multi-step implementation, code changes, debugging, and project-level tasks.
+
+## a little look at my GitHub
 
 <div align="center">
 
@@ -95,32 +88,38 @@ AI is part of my development workflow, not a replacement for understanding the c
 
 </div>
 
-### Contribution Graph
+### contribution activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/B8E66A/hananchaliq" width="100%" alt="GitHub contribution graph"/>
+<img src="https://ghchart.rshah.org/B8E66A/hananchaliq" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
-### Contribution Snake
+### contribution snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/hananchaliq/hananchaliq/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake"/>
+</picture>
 
 </div>
 
----
+## what's next?
+
+I'm working toward becoming a better software developer by building real projects, improving my understanding of software architecture, and learning how to manage AI-assisted development more effectively.
+
+I'm also interested in the business side of technology: how useful products are built, how they solve real problems, and how software skills can eventually connect with entrepreneurship and real estate investment.
+
+For now, I'm focused on learning by building, making mistakes, fixing them, and gradually getting better at the process.
 
 <div align="center">
 
-<a href="https://github.com/hananchaliq">
-  <img src="https://img.shields.io/badge/GitHub-hananchaliq-B8E66A?style=flat-square&logo=github&logoColor=050706" alt="GitHub profile"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8E66A,100:050706&height=100&section=footer" width="100%" alt="Animated footer"/>
 
-<p><sub>Built with curiosity, code, and a questionable amount of AI assistance.</sub></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0: B8E66A,100:050706&height=90&section=footer" width="100%" alt="Footer"/>
+<sub>Made by Hanan · Indonesia · Still figuring things out, one project at a time.</sub>
 
 </div>
